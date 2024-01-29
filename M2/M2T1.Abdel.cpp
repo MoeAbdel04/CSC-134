@@ -19,6 +19,7 @@ int main()
     string meal= "Value Meal";
     // all in $ except the percent
     cout << "Thank you for dining wiht us!" << endl;
+    cout << "----------------------" << endl;
     double meal_price = 5.99;
     double tax_percent = 0.08;
     double tax_amount = 0;
