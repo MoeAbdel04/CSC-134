@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nasserabdelhadi/Documents/GitHub/CSC-134/Template.ccp/build",
-      "program": "/Users/nasserabdelhadi/Documents/GitHub/CSC-134/Template.ccp/build/build/Debug/outDebug"
+      "cwd": "/Users/nasserabdelhadi/Documents/GitHub/CSC-134/M3",
+      "program": "/Users/nasserabdelhadi/Documents/GitHub/CSC-134/M3/build/Debug/outDebug"
     }
   ]
 }
