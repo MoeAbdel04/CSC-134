@@ -1,11 +1,4 @@
-/*
-CSC 134
-
-M6Lab1 - Buckshot roulette
-Mahamed Abdel
-4/10/24
-
-*/
+ 
 
 
 

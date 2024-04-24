@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nasserabdelhadi/CSC-134-1/M5",
-      "program": "/Users/nasserabdelhadi/CSC-134-1/M5/build/Debug/outDebug"
+      "cwd": "/Users/nasserabdelhadi/CSC-134-1/M5/M6",
+      "program": "/Users/nasserabdelhadi/CSC-134-1/M5/M6/build/Debug/outDebug"
     }
   ]
 }
