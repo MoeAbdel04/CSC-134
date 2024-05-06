@@ -6,8 +6,21 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nasserabdelhadi/CSC-134-1/M5/M6",
-      "program": "/Users/nasserabdelhadi/CSC-134-1/M5/M6/build/Debug/outDebug"
+      "cwd": "/Users/nasserabdelhadi/CSC-134-1/M5/M6/M7/M7T2",
+      "program": "/Users/nasserabdelhadi/CSC-134-1/M5/M6/M7/M7T2/build/Debug/outDebug"
+    },
+    {
+      "name": "C/C++: g++ build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb",
+      "preLaunchTask": "C/C++: g++ build active file"
     }
   ]
 }
